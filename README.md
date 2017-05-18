@@ -11,21 +11,21 @@ Obtain Bearer Token to be used with Azure REST Api, with LogicApps！
 POST で呼び出す際の JSON Schema.<br />
 JSON schema for calling with POST.
 
-{
-  "properties": {
-    "client_id": {
-      "type": "string"
-    },
-    "client_secret": {
-      "type": "string"
-    },
-    "resourceurl": {
-      "type": "string"
-    },
-    "tenanntid": {
-      "type": "string"
-    }
-  },
-  "type": "object"
-}
+{<br />
+  "properties": {<br />
+    "client_id": {<br />
+      "type": "string"<br />
+    },<br />
+    "client_secret": {<br />
+      "type": "string"<br />
+    },<br />
+    "resourceurl": {<br />
+      "type": "string"<br />
+    },<br />
+    "tenanntid": {<br />
+      "type": "string"<br />
+    }<br />
+  },<br />
+  "type": "object"<br />
+}<br />
 

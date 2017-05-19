@@ -7,6 +7,7 @@ Obtain Bearer Token to be used with Azure REST Api, with LogicApps！
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
+![LogicFlow](https://github.com/ahf0124/GetBearerToken/blob/master/GetBearerLogicFlow.png)
 
 POST で呼び出す際の JSON Schema.<br />
 JSON schema for calling with POST.
